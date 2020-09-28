@@ -2,7 +2,7 @@
 NBCC工作室代码仓库，提交代码时请遵循工作室git commit 代码提交规范
 
 格式
-type: description  
+type: description
 
 1. type 类型  
 type 是 commit 的类别，只允许如下几种标识：  
@@ -13,7 +13,7 @@ update: 更新
 style : 代码格式改变  
 test: 增加测试代码  
 revert: 撤销上一次的commit  
-build: 构建工具或构建过程等的变动，如：gulp 换成了 webpack，webpack 升级等  
+build: 构建工具或构建过程等的变动，如：gulp 换成了 webpack，webpack 升级等
 
 2. description  
 description 是对本次提交的简短描述。  
