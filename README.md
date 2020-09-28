@@ -5,7 +5,7 @@ NBCC工作室代码仓库，提交代码时请遵循工作室git commit 代码�
 type: description
 
 1. type 类型
-type 是 commit 的类别，只允许如下几种标识：
+type 是 commit 的类别，只允许如下几种标识:
 
 fix: 修复bug
 add: 新功能
